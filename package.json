@@ -1,0 +1,26 @@
+{
+  "name": "jsontestserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumaruidivloper/jsonTestServer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bug": {
+    "url": "https://github.com/kumaruidivloper/jsonTestServer/issues"
+  },
+  "homepage": "https://github.com/kumaruidivloper/jsonTestServer/blob/main/README.md",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.3"
+  }
+}
